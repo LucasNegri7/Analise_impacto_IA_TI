@@ -1,1 +1,408 @@
 
+id,ano_resposta,area_atuacao,nivel_experiencia,anos_experiencia,regiao,tipo_empresa,usa_ia_no_trabalho,frequencia_uso_ia,ferramenta_principal,nota_impacto_ia,variacao_produtividade_pct,preocupacao_perder_emprego,atribuicoes_mudaram,fez_curso_ia
+221,2026,QA e Testes,Senior,11.3,Sudeste,Grande,Sim,Diario,Gemini,3,20.2,3,Nao,Sim
+296,2026,Design UX/UI,Pleno,,Norte,Startup,Sim,Semanal,Gemini,5,19.1,3,Sim,Nao
+392,2024,Desenvolvimento,Pleno,4.5,Sudeste,Pequena/Media,Nao,Nunca,,3,0.0,4,Nao,Nao
+358,2026,Seguranca da Informacao,Gestao,12.9,Centro-Oeste,Startup,Nao,Nunca,,3,-6.7,2,Sim,Nao
+385,2025,Analise de Dados,Gestao,14.0,Sudeste,Startup,Sim,Diario,GitHub Copilot,3,20.3,3,Nao,Sim
+229,2026,Suporte Tecnico,Pleno,5.2,Sudeste,Pequena/Media,Sim,Semanal,Gemini,1,23.3,5,Nao,Sim
+285,2026,Suporte Tecnico,Pleno,2.9,Sudeste,Pequena/Media,Sim,Raramente,GitHub Copilot,2,11.6,3,Nao,Sim
+309,2024,QA e Testes,Pleno,4.1,Centro-Oeste,Startup,Nao,Nunca,,4,-4.4,3,Nao,Nao
+31,2026,Infraestrutura e DevOps,Gestao,11.7,Sudeste,Pequena/Media,Nao,Nunca,,4,1.5,3,Nao,Nao
+340,2023,Gestao de Projetos,Pleno,6.3,Sudeste,Freelancer,Sim,Diario,Outra,5,38.8,3,Sim,Nao
+289,2024,Suporte Tecnico,Senior,10.2,Sudeste,Pequena/Media,Sim,Raramente,ChatGPT,3,13.4,3,Nao,Nao
+112,2023,Desenvolvimento,Senior,11.4,Sudeste,Grande,Sim,Semanal,GitHub Copilot,4,36.4,2,Nao,Sim
+175,2026,Desenvolvimento,Senior,10.4,Sudeste,Startup,Sim,Diario,Outra,3,43.4,2,Sim,Nao
+271,2025,Desenvolvimento,Junior,0.6,Sudeste,Pequena/Media,Sim,Diario,ChatGPT,4,32.5,5,Sim,Sim
+163,2024,Desenvolvimento,Senior,11.7,Sudeste,Startup,Sim,Semanal,GitHub Copilot,5,39.6,5,Nao,Nao
+91,2023,Desenvolvimento,Senior,8.5,Sudeste,Pequena/Media,Sim,Semanal,ChatGPT,4,38.7,4,Sim,Sim
+338,2024,Infraestrutura e DevOps,Junior,0.8,Sudeste,Startup,Sim,Diario,GitHub Copilot,4,6.6,3,Sim,Sim
+61,2025,Infraestrutura e DevOps,Pleno,5.6,Sudeste,Setor publico,Sim,Raramente,GitHub Copilot,4,28.1,1,Sim,Nao
+375,2026,Desenvolvimento,Estagio,0.5,Centro-Oeste,Setor publico,Sim,Diario,Claude,4,40.1,4,Nao,Nao
+242,2025,Seguranca da Informacao,Senior,12.2,Sul,Grande,Sim,Raramente,ChatGPT,4,28.5,2,Nao,Nao
+262,2025,Seguranca da Informacao,Senior,10.3,Sudeste,Pequena/Media,Sim,Semanal,Outra,4,19.1,2,Nao,Nao
+308,2024,Suporte Tecnico,Senior,14.2,Nordeste,Grande,Nao,Nunca,,2,-1.7,3,Nao,Nao
+52,2025,Desenvolvimento,Senior,12.2,Nordeste,Setor publico,Sim,Raramente,ChatGPT,2,29.4,4,Sim,Nao
+336,2023,Suporte Tecnico,Pleno,6.1,Sudeste,Pequena/Media,Sim,Semanal,ChatGPT,3,-7.8,3,Sim,Nao
+354,2024,Suporte Tecnico,Pleno,4.6,Centro-Oeste,Grande,Sim,Raramente,Claude,4,-3.7,4,Nao,Nao
+130,2025,Suporte Tecnico,Junior,,Nordeste,Grande,Sim,Raramente,Gemini,3,17.9,4,Nao,Nao
+156,2024,Infraestrutura e DevOps,Junior,4.8,Sudeste,Startup,Sim,Diario,Claude,3,10.2,5,Nao,Nao
+90,2024,Suporte Tecnico,Pleno,6.0,Sudeste,Grande,Nao,Nunca,,2,6.3,4,Nao,Nao
+27,2024,Analise de Dados,Junior,-3.0,Sudeste,Grande,Sim,Semanal,GitHub Copilot,5,47.2,5,Nao,Nao
+270,2023,Dev,Pleno,6.0,Sul,Grande,Sim,Diario,Claude,3,36.7,3,Sim,Nao
+81,2024,Infraestrutura e DevOps,Pleno,4.5,Sudeste,Grande,Sim,Raramente,ChatGPT,3,17.6,2,Nao,Sim
+121,2024,Suporte Tecnico,Senior,8.8,Sudeste,Pequena/Media,Sim,Diario,GitHub Copilot,3,1.3,5,Sim,Nao
+398,2026,QA e Testes,Junior,4.7,Nordeste,Grande,Sim,Semanal,Outra,5,0.8,5,Nao,Sim
+321,2024,Design UX/UI,Pleno,4.1,Sudeste,Pequena/Media,Sim,Semanal,ChatGPT,3,23.7,3,Sim,Nao
+15,2025,Analise de Dados,Estagio,0.5,Sudeste,Pequena/Media,Sim,Semanal,GitHub Copilot,3,24.7,4,Sim,Nao
+141,2023,Analise de Dados,Gestao,11.9,Sudeste,Grande,Sim,Diario,Claude,3,46.8,2,Nao,Nao
+337,2026,Desenvolvimento,Junior,0.0,Sudeste,Pequena/Media,Sim,Diario,ChatGPT,5,17.1,5,Nao,Sim
+66,2025,Suporte Tecnico,Pleno,3.7,Sudeste,Grande,Sim,Diario,Outra,3,9.5,4,Sim,Nao
+240,2024,Desenvolvimento,Senior,10.6,Sul,Grande,Sim,Diario,GitHub Copilot,5,34.9,2,Nao,Nao
+281,2026,Desenvolvimento,Estagio,0.0,Norte,Startup,Sim,Diario,Gemini,5,15.9,3,Sim,Sim
+342,2026,Gestao de Projetos,Estagio,0.1,Nordeste,Freelancer,Nao,Nunca,,2,1.7,3,Nao,Nao
+149,2025,Analise de Dados,Senior,12.0,Centro-Oeste,Pequena/Media,Sim,Semanal,GitHub Copilot,4,32.9,4,Sim,Nao
+301,2025,Seguranca da Informacao,Junior,1.7,Nordeste,Pequena/Media,Sim,Diario,GitHub Copilot,4,14.0,2,Sim,Sim
+194,2025,Seguranca da Informacao,Pleno,4.8,Sudeste,Grande,Nao,Nunca,,2,-6.9,2,Sim,Nao
+165,2025,Suporte Tecnico,Pleno,5.5,Sudeste,Grande,Sim,Raramente,GitHub Copilot,3,-14.2,5,Nao,Sim
+115,2024,Desenvolvimento,Junior,0.4,Sudeste,Startup,Sim,Diario,Gemini,4,41.2,4,Sim,Nao
+53,2024,Seguranca da Informacao,Senior,8.3,Sul,Pequena/Media,Sim,Diario,ChatGPT,3,-4.4,2,Nao,Sim
+245,2025,suporte tecnico ,Pleno,3.4,Nordeste,Pequena/Media,Nao,Nunca,,1,4.5,5,Nao,Sim
+371,2026,Seguranca da Informacao,Junior,4.6,Nordeste,Pequena/Media,Sim,Semanal,ChatGPT,4,18.9,3,Sim,Sim
+57,2025,Analise de Dados,Gestao,13.0,Sudeste,Grande,Sim,Semanal,Gemini,5,28.7,2,Nao,Sim
+365,2025,Infraestrutura e DevOps,Senior,9.8,Sudeste,Pequena/Media,Nao,Nunca,,3,7.9,2,Nao,Nao
+29,2023,Desenvolvimento,Estagio,2.0,Sudeste,Freelancer,Sim,Raramente,GitHub Copilot,4,27.1,4,Nao,Nao
+42,2025,Seguranca da Informacao,Junior,1.1,Sudeste,Grande,Sim,Semanal,ChatGPT,4,33.8,3,Sim,Nao
+4,2025,Infraestrutura e DevOps,Estagio,2.5,Sudeste,Pequena/Media,Sim,Diario,GitHub Copilot,3,26.2,3,Nao,Nao
+23,2025,Gestao de Projetos,Estagio,1.3,Centro-Oeste,Pequena/Media,Sim,Diario,ChatGPT,4,13.2,3,Sim,Sim
+259,2025,Desenvolvimento,Pleno,5.0,Sul,Grande,Sim,Semanal,ChatGPT,4,22.3,3,Nao,Sim
+279,2024,Design UX/UI,Junior,0.6,Sul,Pequena/Media,Sim,Diario,GitHub Copilot,2,0.4,4,Nao,Nao
+160,2024,Seguranca da Informacao,Pleno,5.1,Sul,Startup,Sim,Diario,ChatGPT,2,19.1,3,Nao,Sim
+223,2023,Infraestrutura e DevOps,Gestao,15.7,Nordeste,Freelancer,Sim,Semanal,GitHub Copilot,4,,2,Sim,Nao
+232,2024,Analise de Dados,Senior,8.9,Sul,Pequena/Media,Sim,Semanal,Gemini,5,20.8,3,Sim,Nao
+58,2023,Suporte Tecnico,Pleno,4.8,Centro-Oeste,Pequena/Media,Nao,Nunca,,1,2.8,4,Nao,Sim
+110,2026,Design UX/UI,Estagio,0.5,Sul,Grande,Sim,Diario,ChatGPT,4,-3.6,4,Nao,Nao
+119,2025,Analise de Dados,Estagio,0.0,Sudeste,Grande,Sim,Semanal,Gemini,4,-3.0,3,Nao,Nao
+182,2025,Design UX/UI,Pleno,5.7,Sudeste,Grande,Sim,Semanal,GitHub Copilot,4,8.6,3,Sim,Nao
+374,2025,QA e Testes,Senior,9.2,Centro-Oeste,Pequena/Media,Sim,Diario,ChatGPT,3,12.6,4,Nao,Sim
+238,2024,Seguranca da Informacao,Senior,9.4,Sudeste,Freelancer,Sim,Diario,Gemini,3,19.9,2,Nao,Sim
+164,2025,desenvolvimento ,Pleno,7.5,Sudeste,Setor publico,Sim,Raramente,GitHub Copilot,5,37.4,3,Sim,Sim
+133,2026,Suporte Tecnico,Junior,1.8,Centro-Oeste,Grande,Nao,Nunca,,1,-2.9,4,Sim,Nao
+382,2023,Gestao de Projetos,Senior,,Sul,Grande,Sim,Semanal,ChatGPT,3,37.7,1,Sim,Sim
+254,2025,QA e Testes,Junior,2.9,Sudeste,Pequena/Media,Sim,Semanal,Claude,3,42.1,4,Sim,Nao
+236,2023,Seguranca da Informacao,Estagio,1.0,Sudeste,Grande,Sim,Raramente,GitHub Copilot,2,21.4,2,Nao,Sim
+217,2025,Desenvolvimento,Senior,7.9,Sudeste,Grande,Sim,Diario,ChatGPT,5,48.7,3,Nao,Sim
+171,2025,QA e Testes,Junior,2.3,Sul,Grande,Sim,Semanal,Gemini,4,16.8,4,Nao,Nao
+148,2026,Suporte Tecnico,Estagio,1.3,Sudeste,Grande,Sim,Diario,Gemini,4,21.0,5,Sim,Nao
+174,2026,Gestao de Projetos,Senior,11.8,Sudeste,Pequena/Media,Sim,Diario,Outra,4,-0.6,2,Sim,Nao
+239,2025,Desenvolvimento,Senior,11.1,Sudeste,Startup,Sim,Raramente,ChatGPT,5,27.7,3,Sim,Nao
+151,2023,Seguranca da Informacao,Pleno,4.5,Sul,Startup,Sim,Diario,ChatGPT,4,2.6,3,Sim,Sim
+139,2024,Seguranca da Informacao,Junior,2.1,,Grande,Nao,Nunca,,1,,3,Nao,Nao
+60,2026,Desenvolvimento,Pleno,1.0,Nordeste,Setor publico,Sim,Semanal,ChatGPT,3,23.6,3,Nao,Sim
+140,2026,Desenvolvimento,Senior,8.4,Sul,Grande,Sim,Raramente,GitHub Copilot,5,16.3,5,Nao,Nao
+75,2025,Desenvolvimento,Junior,2.2,Sudeste,Grande,Sim,Diario,ChatGPT,5,31.3,2,Nao,Sim
+80,2024,Seguranca da Informacao,Pleno,6.5,Centro-Oeste,Pequena/Media,Sim,Semanal,Claude,3,15.3,1,Nao,Nao
+353,2026,Suporte Tecnico,Junior,0.9,Sul,Setor publico,Sim,Semanal,ChatGPT,2,8.4,4,Nao,Nao
+102,2026,Infraestrutura e DevOps,Senior,8.5,Sul,,Nao,Nunca,,2,0.3,2,Sim,Sim
+82,2024,Analise de Dados,Junior,1.3,Sudeste,Grande,Sim,Diario,GitHub Copilot,4,22.7,5,Nao,Sim
+51,2026,Desenvolvimento,Estagio,0.0,Nordeste,Pequena/Media,Sim,Semanal,ChatGPT,5,40.6,3,Sim,Nao
+315,2023,Analise de Dados,Senior,10.2,Sudeste,Grande,Sim,Semanal,Claude,4,64.3,3,Nao,Nao
+116,2023,Design UX/UI,Junior,55.0,Sudeste,Pequena/Media,Sim,Raramente,ChatGPT,3,17.8,5,Nao,Nao
+396,2026,Analise de Dados,Junior,0.7,Sudeste,Pequena/Media,Sim,Raramente,GitHub Copilot,4,48.3,4,Nao,Sim
+218,2024,Desenvolvimento,Junior,2.5,Sudeste,Grande,Sim,Diario,GitHub Copilot,4,32.3,2,Nao,Sim
+228,2026,Suporte Tecnico,Estagio,0.7,Sudeste,Pequena/Media,Sim,Diario,Gemini,3,5.4,5,Nao,Sim
+54,2023,Infraestrutura e DevOps,Junior,0.0,Norte,Startup,Nao,Nunca,,1,8.8,4,Nao,Nao
+359,2025,Analise de Dados,Estagio,0.1,Nordeste,Grande,Sim,Raramente,GitHub Copilot,3,19.5,5,Sim,Sim
+275,2025,Infraestrutura e DevOps,Pleno,3.9,Sudeste,Grande,Sim,Diario,ChatGPT,4,17.4,4,Nao,Nao
+366,2024,Dev,Estagio,2.4,Sul,,Sim,Semanal,Claude,5,37.9,3,Nao,Nao
+208,2025,Infraestrutura e DevOps,Estagio,0.0,Centro-Oeste,Pequena/Media,Sim,Semanal,ChatGPT,5,17.4,4,Sim,Nao
+99,2025,Desenvolvimento,Junior,1.1,Nordeste,Pequena/Media,Sim,Semanal,GitHub Copilot,3,30.8,5,Nao,Nao
+178,2024,Gestao de Projetos,Pleno,0.6,Norte,Startup,Sim,Semanal,ChatGPT,4,19.5,3,Nao,Nao
+173,2024,QA e Testes,Pleno,5.7,Sul,Pequena/Media,Sim,Raramente,ChatGPT,4,13.8,3,Sim,Nao
+67,2024,Suporte Tecnico,Pleno,4.5,Sudeste,Grande,Sim,Diario,ChatGPT,2,-7.1,4,Nao,Nao
+395,2025,Desenvolvimento,Estagio,0.0,Centro-Oeste,Setor publico,Sim,Semanal,GitHub Copilot,5,27.8,3,Sim,Nao
+255,2025,Desenvolvimento,Senior,6.8,Nordeste,Grande,Sim,Diario,ChatGPT,4,31.1,5,Sim,Nao
+364,2025,Desenvolvimento,Junior,4.1,Sudeste,Grande,Sim,Diario,GitHub Copilot,4,25.8,1,Sim,Sim
+389,2025,Desenvolvimento,Senior,6.3,Nordeste,Pequena/Media,Sim,Semanal,GitHub Copilot,4,48.3,4,Sim,Sim
+85,2024,Desenvolvimento,Estagio,0.9,Sudeste,Grande,Sim,Raramente,Outra,5,51.6,2,Nao,Sim
+334,2023,Design UX/UI,Junior,2.8,Sudeste,Startup,Sim,Diario,GitHub Copilot,4,0.5,4,Sim,Nao
+335,2024,Desenvolvimento,Estagio,0.0,Nordeste,Pequena/Media,Sim,Diario,GitHub Copilot,5,29.2,2,Nao,Nao
+100,2026,Gestao de Projetos,Pleno,4.9,Centro-Oeste,Freelancer,Sim,Semanal,ChatGPT,3,4.1,1,Nao,Sim
+33,2025,QA e Testes,Pleno,5.5,Sudeste,Pequena/Media,Sim,Diario,ChatGPT,4,36.1,2,Nao,Nao
+211,2023,Infraestrutura e DevOps,Pleno,5.7,Sul,Grande,Nao,Nunca,,2,-4.0,2,Nao,Nao
+16,2023,Desenvolvimento,Junior,2.4,Sudeste,Grande,Nao,Nunca,,3,1.6,4,Nao,Nao
+322,2024,Analise de Dados,Pleno,5.0,Sudeste,Grande,Sim,Semanal,Claude,4,,3,Nao,Sim
+362,2025,Desenvolvimento,Junior,1.6,Sudeste,Setor publico,Sim,Semanal,Claude,4,21.9,5,Nao,Nao
+205,2026,Desenvolvimento,Gestao,11.5,Nordeste,Pequena/Media,Sim,Semanal,Gemini,4,14.8,3,Sim,Nao
+293,2023,Gestao de Projetos,Junior,1.3,Sudeste,Startup,Sim,Semanal,Claude,4,24.4,3,Nao,Sim
+87,2025,Infraestrutura e DevOps,Pleno,5.5,Sul,Pequena/Media,Sim,Semanal,GitHub Copilot,4,22.5,1,Nao,Nao
+38,2026,Analise de Dados,Pleno,3.1,Sudeste,Pequena/Media,Sim,Semanal,Gemini,3,47.4,3,Sim,Sim
+3,2024,Design UX/UI,Senior,10.4,Sudeste,Pequena/Media,Sim,Raramente,Gemini,1,18.1,3,Nao,Nao
+63,2024,Suporte Tecnico,Gestao,11.3,Sudeste,Startup,Nao,Nunca,,3,-5.0,4,Nao,Nao
+201,2026,Seguranca da Informacao,Pleno,4.6,Norte,Startup,Sim,Semanal,GitHub Copilot,2,-13.1,1,Sim,Nao
+297,2025,Gestao de Projetos,Senior,8.4,Sudeste,Setor publico,Sim,Semanal,Claude,3,23.4,1,Sim,Nao
+311,2024,Analise de Dados,Gestao,13.4,Sudeste,Grande,Sim,Semanal,ChatGPT,4,26.1,2,Nao,Sim
+158,2025,Infraestrutura e DevOps,Pleno,5.6,Sudeste,Startup,Sim,Diario,ChatGPT,4,19.4,1,Sim,Sim
+146,2023,QA e Testes,Pleno,6.7,Nordeste,Pequena/Media,Nao,Nunca,,4,4.7,2,Nao,Nao
+74,2023,Desenvolvimento,Junior,1.9,Sul,Grande,Sim,Diario,ChatGPT,3,38.9,3,Sim,Nao
+189,2025,Infraestrutura e DevOps,Junior,2.0,Nordeste,Setor publico,Sim,Raramente,Claude,3,21.6,4,Nao,Sim
+105,2025,Seguranca da Informacao,Pleno,2.2,Sudeste,Grande,Sim,Diario,GitHub Copilot,3,47.1,2,Sim,Sim
+369,2024,QA e Testes,Estagio,0.4,Sudeste,Startup,Sim,Semanal,ChatGPT,5,1.1,3,Sim,Sim
+243,2025,Desenvolvimento,Estagio,0.0,Sul,Pequena/Media,Sim,Semanal,Gemini,4,44.6,5,Nao,Nao
+17,2023,Suporte Tecnico,Junior,2.1,Centro-Oeste,Grande,Sim,Diario,Claude,3,29.8,4,Nao,Sim
+306,2023,Analise de Dados,Pleno,5.3,Sudeste,Startup,Sim,Semanal,GitHub Copilot,4,21.1,3,Nao,Sim
+89,2026,Desenvolvimento,Pleno,2.1,Sudeste,Grande,Sim,Diario,ChatGPT,4,41.1,4,Sim,Sim
+355,2026,Analise de Dados,Pleno,4.7,Norte,Grande,Sim,Diario,Claude,5,24.3,3,Nao,Sim
+103,2024,QA e Testes,Gestao,14.1,Sudeste,,Sim,Diario,Claude,5,19.7,5,Sim,Sim
+166,2024,Analise de Dados,Pleno,5.9,Centro-Oeste,Grande,Sim,Semanal,Claude,3,19.4,4,Nao,Nao
+71,2026,Desenvolvimento,Pleno,7.9,,Grande,Sim,Diario,Claude,3,13.5,4,Sim,Nao
+134,2026,QA e Testes,Pleno,7.4,Sudeste,Grande,Sim,Diario,Gemini,4,25.9,5,Nao,Sim
+266,2025,Desenvolvimento,Senior,10.0,Sudeste,Pequena/Media,Sim,Semanal,ChatGPT,3,16.9,2,Nao,Sim
+399,2026,Analise de Dados,Senior,9.4,Sudeste,Startup,Sim,Diario,ChatGPT,5,11.0,2,Nao,Nao
+142,2026,Analise de Dados,Pleno,5.6,Sudeste,Grande,Sim,Diario,Claude,4,53.1,5,Sim,Nao
+268,2026,Desenvolvimento,Gestao,12.2,Sudeste,Freelancer,Sim,Diario,GitHub Copilot,4,7.6,4,Sim,Sim
+19,2025,Seguranca da Informacao,Junior,0.4,Sudeste,Pequena/Media,Sim,Semanal,GitHub Copilot,5,13.5,1,Sim,Nao
+373,2024,Analise de Dados,Pleno,2.0,Norte,Grande,Sim,Diario,Claude,3,25.3,2,Nao,Nao
+21,2026,Infraestrutura e DevOps,Pleno,3.9,Sudeste,Pequena/Media,Sim,Semanal,ChatGPT,5,20.6,3,Sim,Nao
+56,2024,Seguranca da Informacao,Junior,2.0,Sudeste,Grande,Sim,Semanal,ChatGPT,4,27.8,3,Nao,Sim
+207,2026,Desenvolvimento,Senior,11.7,Nordeste,Grande,Sim,Diario,GitHub Copilot,4,28.8,4,Nao,Nao
+345,2023,Seguranca da Informacao,Pleno,5.2,Sudeste,Freelancer,Sim,Diario,ChatGPT,2,,2,Sim,Nao
+290,2023,Desenvolvimento,Pleno,5.7,Sul,Startup,Sim,Semanal,GitHub Copilot,5,32.4,2,Sim,Nao
+247,2025,Suporte Tecnico,Estagio,0.6,Centro-Oeste,Grande,Sim,Diario,ChatGPT,2,-1.0,5,Nao,Nao
+379,2023,Analise de Dados,Senior,11.5,Sul,Grande,Sim,Semanal,Gemini,5,14.9,3,Sim,Sim
+339,2026,Desenvolvimento,Junior,4.0,Sudeste,Setor publico,Sim,Diario,GitHub Copilot,5,32.3,4,Sim,Sim
+393,2024,Suporte Tecnico,Junior,1.6,Nordeste,Setor publico,Nao,Nunca,,2,250.0,5,Nao,Nao
+98,2026,Desenvolvimento,Pleno,4.4,Sudeste,Grande,Sim,Diario,Claude,3,37.4,4,Sim,Nao
+323,2025,QA e Testes,Estagio,1.7,Sudeste,Startup,Sim,Diario,GitHub Copilot,4,5.5,3,Nao,Nao
+155,2025,Desenvolvimento,Estagio,0.3,Sul,Pequena/Media,Nao,Nunca,,4,-1.7,4,Nao,Nao
+123,2023,Desenvolvimento,Junior,1.4,Sudeste,Startup,Sim,Diario,ChatGPT,4,22.7,4,Nao,Nao
+114,2024,Suporte Tecnico,Junior,0.2,Nordeste,Setor publico,Sim,Diario,ChatGPT,3,15.4,3,Sim,Nao
+320,2026,Gestao de Projetos,Gestao,12.6,Sudeste,Startup,Nao,Nunca,,2,1.8,3,Nao,Nao
+267,2026,QA e Testes,Senior,11.5,Sudeste,Freelancer,Sim,Diario,GitHub Copilot,4,16.4,2,Sim,Nao
+109,2023,Desenvolvimento,Pleno,4.8,Sudeste,Pequena/Media,Sim,Raramente,Claude,3,23.7,2,Sim,Sim
+332,2024,Desenvolvimento,Estagio,1.4,Nordeste,Grande,Sim,Semanal,ChatGPT,4,10.4,3,Sim,Sim
+95,2026,QA e Testes,Senior,9.0,Sudeste,Setor publico,Sim,Semanal,ChatGPT,2,6.9,4,Sim,Sim
+264,2026,Desenvolvimento,Estagio,1.2,Sudeste,Setor publico,Sim,Diario,Outra,3,26.4,3,Sim,Nao
+126,2026,Analise de Dados,Junior,3.6,Sudeste,Startup,Sim,Diario,Gemini,5,10.7,3,Nao,Sim
+246,2026,Design UX/UI,Senior,8.5,,Setor publico,Sim,Diario,ChatGPT,3,14.7,3,Nao,Sim
+391,2024,Suporte Tecnico,Junior,0.2,Sudeste,Pequena/Media,Sim,Diario,ChatGPT,3,7.6,4,Nao,Nao
+92,2025,Infraestrutura e DevOps,Pleno,2.8,,Grande,Sim,Raramente,Claude,2,12.7,2,Sim,Sim
+388,2023,Gestao de Projetos,Junior,4.2,Sudeste,Startup,Sim,Diario,GitHub Copilot,4,33.5,5,Sim,Nao
+343,2023,Seguranca da Informacao,Senior,8.3,Sudeste,Startup,Nao,Nunca,,2,-3.1,2,Nao,Nao
+195,2023,Desenvolvimento,Estagio,0.4,Sudeste,Grande,Sim,Semanal,GitHub Copilot,5,38.4,3,Sim,Sim
+188,2023,Desenvolvimento,Junior,5.4,Sudeste,Grande,Sim,Diario,Claude,3,25.9,2,Nao,Nao
+244,2024,suporte tecnico ,Junior,0.0,Sudeste,Grande,Sim,Diario,GitHub Copilot,5,-6.3,4,Nao,Sim
+333,2025,Infraestrutura e DevOps,Estagio,,Nordeste,Pequena/Media,Sim,Semanal,GitHub Copilot,4,12.7,1,Nao,Nao
+25,2023,Seguranca da Informacao,Pleno,2.3,Sudeste,Pequena/Media,Sim,Diario,Outra,4,,3,Nao,Sim
+260,2024,Suporte Tecnico,Junior,3.6,Sul,Setor publico,Sim,Semanal,GitHub Copilot,2,12.3,4,Nao,Nao
+250,2025,Analise de Dados,Estagio,1.4,Sudeste,,Sim,Semanal,GitHub Copilot,4,20.4,4,Sim,Nao
+127,2026,QA e Testes,Gestao,12.0,Sul,Grande,Sim,Diario,Gemini,4,13.9,3,Sim,Nao
+331,2026,Infraestrutura e DevOps,Junior,3.7,Nordeste,Pequena/Media,Sim,Diario,Claude,3,14.7,3,Nao,Nao
+79,2025,Suporte Tecnico,Pleno,3.9,Centro-Oeste,Startup,Sim,Diario,GitHub Copilot,2,14.4,4,Sim,Nao
+203,2024,Suporte Tecnico,Senior,10.3,Centro-Oeste,Pequena/Media,Sim,Raramente,ChatGPT,5,-11.1,3,Nao,Sim
+179,2025,Design UX/UI,Senior,10.6,Norte,Pequena/Media,Sim,Diario,ChatGPT,4,14.7,4,Sim,Sim
+224,2025,Gestao de Projetos,Pleno,7.0,Sudeste,Grande,Sim,Diario,ChatGPT,3,13.1,2,Sim,Sim
+213,2026,Desenvolvimento,Gestao,13.3,Centro-Oeste,Grande,Sim,Semanal,ChatGPT,4,24.9,2,Nao,Sim
+302,2025,Desenvolvimento,Junior,0.3,Sudeste,Startup,Sim,Raramente,ChatGPT,4,19.7,5,Nao,Nao
+222,2023,Analise de Dados,Pleno,7.2,Sudeste,Grande,Sim,Semanal,ChatGPT,4,23.5,3,Nao,Sim
+341,2026,Desenvolvimento,Estagio,2.7,Sudeste,Pequena/Media,Sim,Diario,GitHub Copilot,4,22.1,3,Nao,Sim
+62,2026,Analise de Dados,Junior,4.3,Norte,Pequena/Media,Sim,Raramente,ChatGPT,5,53.1,2,Nao,Sim
+295,2026,Design UX/UI,Senior,9.0,Sul,Grande,Sim,Semanal,Gemini,3,35.9,3,Sim,Nao
+94,2024,Analise de Dados,Junior,2.1,Sudeste,Grande,Nao,Nunca,,2,4.3,3,Nao,Nao
+328,2024,Suporte Tecnico,Estagio,1.2,Nordeste,Grande,Sim,Semanal,Gemini,2,5.3,3,Sim,Sim
+294,2026,Desenvolvimento,Junior,3.7,Sul,Startup,Sim,Diario,GitHub Copilot,4,34.7,3,Sim,Nao
+70,2025,Analise de Dados,Pleno,4.5,Sudeste,,Sim,Diario,ChatGPT,4,26.0,2,Sim,Sim
+37,2025,Desenvolvimento,Junior,1.8,Sudeste,Pequena/Media,Sim,Diario,Outra,5,24.0,3,Nao,Nao
+41,2025,Analise de Dados,Senior,9.7,Sul,,Sim,Raramente,ChatGPT,4,29.8,2,Nao,Sim
+161,2026,Desenvolvimento,Estagio,0.5,Sudeste,Freelancer,Sim,Semanal,ChatGPT,4,31.7,5,Nao,Sim
+288,2024,Analise de Dados,Gestao,13.6,Nordeste,Startup,Sim,Diario,ChatGPT,5,21.2,3,Sim,Nao
+12,2023,Gestao de Projetos,Pleno,4.9,Sul,Grande,Nao,Nunca,,3,-4.9,3,Nao,Nao
+145,2025,Analise de Dados,Junior,3.5,Nordeste,Grande,Sim,Diario,ChatGPT,3,13.4,4,Nao,Sim
+278,2026,Suporte Tecnico,Pleno,5.8,Sudeste,Grande,Sim,Diario,GitHub Copilot,3,0.3,5,Nao,Sim
+284,2024,QA e Testes,Pleno,,Sudeste,Pequena/Media,Sim,Semanal,GitHub Copilot,3,39.2,4,Sim,Sim
+237,2024,Analise de Dados,Pleno,,Sudeste,Startup,Sim,Diario,GitHub Copilot,4,42.7,3,Nao,Nao
+128,2026,Desenvolvimento,Gestao,11.7,Norte,Pequena/Media,Sim,Diario,ChatGPT,4,25.0,3,Sim,Nao
+233,2024,Gestao de Projetos,Estagio,0.0,Centro-Oeste,Grande,Sim,Diario,Claude,3,17.7,3,Nao,Nao
+185,2023,Seguranca da Informacao,Senior,,Centro-Oeste,Grande,Sim,Raramente,GitHub Copilot,4,21.6,3,Nao,Sim
+47,2025,Analise de Dados,Gestao,12.4,Sudeste,Pequena/Media,Sim,Semanal,GitHub Copilot,4,31.4,3,Sim,Sim
+241,2024,Seguranca da Informacao,Senior,8.1,Centro-Oeste,Pequena/Media,Sim,Semanal,GitHub Copilot,4,5.3,1,Nao,Nao
+303,2025,Suporte Tecnico,Junior,1.7,Sudeste,Grande,Nao,Nunca,,4,-3.9,2,Nao,Nao
+363,2024,Desenvolvimento,Estagio,0.0,Sudeste,Pequena/Media,Sim,Semanal,Gemini,4,28.2,2,Nao,Sim
+177,2026,Analise de Dados,Senior,10.5,Sul,Pequena/Media,Sim,Diario,Claude,4,35.6,3,Sim,Sim
+129,2025,Desenvolvimento,Senior,10.7,Norte,Setor publico,Sim,Raramente,Gemini,5,10.4,2,Sim,Sim
+144,2023,Suporte Tecnico,Gestao,12.1,Sudeste,,Sim,Diario,Claude,4,-2.2,4,Sim,Nao
+8,2025,Seguranca da Informacao,Senior,10.6,Sudeste,Pequena/Media,Sim,Diario,ChatGPT,2,,3,Nao,Sim
+352,2025,Desenvolvimento,Junior,2.0,Sudeste,Startup,Sim,Diario,ChatGPT,5,38.8,3,Nao,Nao
+249,2026,Analise de Dados,Pleno,4.5,Sudeste,Setor publico,Sim,Semanal,Claude,5,25.6,3,Nao,Nao
+307,2025,Analise de Dados,Senior,12.0,Sul,Setor publico,Sim,Semanal,GitHub Copilot,5,24.1,1,Sim,Nao
+180,2024,Infraestrutura e DevOps,Junior,0.0,Sudeste,Setor publico,Sim,Diario,Gemini,3,18.9,3,Sim,Nao
+173,2024,QA e Testes,Pleno,5.7,Sul,Pequena/Media,Sim,Raramente,ChatGPT,4,13.8,3,Sim,Nao
+299,2025,Seguranca da Informacao,Pleno,7.2,Nordeste,Grande,Nao,Nunca,,2,-3.0,4,Sim,Nao
+9,2025,Desenvolvimento,Estagio,0.6,Sudeste,Setor publico,Sim,Diario,Claude,4,46.6,3,Sim,Sim
+157,2025,QA e Testes,Junior,1.7,Sul,Pequena/Media,Sim,Diario,ChatGPT,5,1.6,5,Nao,Sim
+28,2025,Desenvolvimento,Senior,11.6,Sul,Grande,Sim,Semanal,Gemini,3,30.4,3,Sim,Sim
+298,2025,Seguranca da Informacao,Pleno,5.7,Sudeste,Startup,Nao,Nunca,,2,-5.9,3,Nao,Nao
+357,2025,Seguranca da Informacao,Junior,4.7,Centro-Oeste,Grande,Sim,Raramente,Gemini,5,3.3,2,Sim,Nao
+59,2025,Desenvolvimento,Senior,11.8,Sul,,Sim,Raramente,GitHub Copilot,3,,3,Nao,Nao
+206,2025,Desenvolvimento,Senior,8.4,Norte,Pequena/Media,Sim,Diario,ChatGPT,3,15.3,3,Nao,Nao
+65,2026,Suporte Tecnico,Pleno,3.9,Norte,Pequena/Media,Sim,Raramente,GitHub Copilot,4,19.7,4,Sim,Nao
+83,2026,Seguranca da Informacao,Pleno,6.4,Sudeste,Grande,Sim,Diario,GitHub Copilot,3,17.5,4,Sim,Nao
+126,2026,Analise de Dados,Junior,3.6,Sudeste,Startup,Sim,Diario,Gemini,5,10.7,3,Nao,Sim
+214,2024,Seguranca da Informacao,Gestao,14.1,Norte,Grande,Sim,Semanal,ChatGPT,4,4.1,2,Nao,Nao
+257,2025,Seguranca da Informacao,Senior,6.7,Sudeste,Freelancer,Sim,Diario,ChatGPT,3,16.2,1,Sim,Sim
+154,2023,Suporte Tecnico,Senior,9.1,Sudeste,Freelancer,Sim,Diario,Gemini,4,5.8,5,Sim,Sim
+49,2024,Infraestrutura e DevOps,Estagio,0.9,Sudeste,Freelancer,Nao,Nunca,,1,-5.8,2,Nao,Nao
+209,2026,Desenvolvimento,Senior,7.9,Sudeste,Setor publico,Sim,Diario,GitHub Copilot,4,23.1,3,Nao,Nao
+376,2024,Desenvolvimento,Senior,11.0,Sudeste,Pequena/Media,Sim,Diario,Gemini,2,21.5,5,Nao,Nao
+32,2023,Gestao de Projetos,Senior,8.4,Sudeste,Freelancer,Sim,Diario,Claude,3,28.9,2,Nao,Sim
+2,2024,Analise de Dados,Senior,12.0,Sudeste,Pequena/Media,Sim,Raramente,ChatGPT,4,19.4,3,Sim,Sim
+172,2026,Suporte Tecnico,Senior,11.3,Centro-Oeste,Pequena/Media,Sim,Semanal,ChatGPT,3,13.9,4,Sim,Nao
+265,2025,Gestao de Projetos,Junior,1.2,,Pequena/Media,Sim,Diario,ChatGPT,4,9.4,3,Nao,Nao
+14,2025,Dev,Senior,11.3,Sudeste,Startup,Sim,Diario,GitHub Copilot,3,-7.1,1,Sim,Nao
+372,2025,qa e testes ,Pleno,1.5,Nordeste,Freelancer,Sim,Diario,ChatGPT,3,25.0,3,Nao,Sim
+10,2025,Analise de Dados,Gestao,11.0,Sul,Pequena/Media,Sim,Diario,GitHub Copilot,5,11.7,3,Nao,Sim
+147,2026,QA e Testes,Junior,4.2,Sudeste,Setor publico,Sim,Semanal,Gemini,2,19.3,5,Nao,Nao
+274,2025,Suporte Tecnico,Senior,10.2,Sudeste,Grande,Nao,Nunca,,1,2.0,4,Nao,Nao
+269,2026,Desenvolvimento,Junior,3.2,Sul,Setor publico,Sim,Diario,ChatGPT,5,31.7,4,Nao,Nao
+377,2024,Gestao de Projetos,Pleno,5.7,Sudeste,Setor publico,Sim,Raramente,Gemini,3,24.2,2,Nao,Nao
+96,2024,Suporte Tecnico,Pleno,6.2,Sul,Freelancer,Sim,Raramente,Gemini,3,-5.9,3,Sim,Nao
+35,2024,Analise de Dados,Estagio,2.4,Centro-Oeste,Grande,Sim,Semanal,Gemini,5,21.8,3,Nao,Sim
+97,2026,Analise de Dados,Pleno,3.0,Nordeste,Pequena/Media,Sim,Diario,ChatGPT,3,51.9,2,Nao,Nao
+394,2025,Infraestrutura e DevOps,Estagio,0.0,Sudeste,Grande,Sim,Semanal,ChatGPT,5,18.1,5,Sim,Sim
+282,2026,Desenvolvimento,Junior,1.7,Sudeste,Pequena/Media,Sim,Diario,GitHub Copilot,4,39.5,4,Nao,Nao
+256,2026,Infraestrutura e DevOps,Junior,1.5,Sul,Freelancer,Sim,Semanal,Claude,4,21.0,3,Nao,Sim
+381,2026,Suporte Tecnico,Junior,2.3,Sudeste,Pequena/Media,Sim,Semanal,GitHub Copilot,4,21.3,4,Sim,Nao
+347,2024,Gestao de Projetos,Junior,3.7,Sudeste,Grande,Sim,Raramente,GitHub Copilot,2,19.1,2,Sim,Sim
+117,2024,Infraestrutura e DevOps,Junior,3.9,Sudeste,Grande,Nao,Nunca,,3,5.7,3,Nao,Nao
+169,2024,QA e Testes,Junior,3.4,Norte,Grande,Sim,Diario,Gemini,2,39.1,3,Nao,Sim
+46,2023,Seguranca da Informacao,Senior,10.5,Sudeste,Pequena/Media,Sim,Diario,Gemini,1,18.6,2,Nao,Sim
+162,2025,Design UX/UI,Junior,2.7,Sudeste,Startup,Sim,Diario,Gemini,4,33.6,5,Sim,Nao
+387,2024,Infraestrutura e DevOps,Senior,10.0,Centro-Oeste,Pequena/Media,Sim,Raramente,Gemini,4,34.0,1,Sim,Nao
+118,2024,Infraestrutura e DevOps,Senior,9.4,Nordeste,Grande,Sim,Raramente,ChatGPT,5,7.5,2,Nao,Sim
+78,2024,Infraestrutura e DevOps,Pleno,6.3,Sul,Pequena/Media,Sim,Diario,ChatGPT,4,32.0,2,Sim,Sim
+319,2024,QA e Testes,Pleno,6.0,Nordeste,Pequena/Media,Sim,Diario,ChatGPT,4,1.3,1,Nao,Sim
+64,2025,Seguranca da Informacao,Junior,1.4,Sudeste,Setor publico,Sim,Diario,ChatGPT,3,28.2,3,Nao,Nao
+231,2024,Desenvolvimento,Gestao,12.9,Sudeste,Startup,Sim,Diario,ChatGPT,3,32.3,3,Sim,Sim
+187,2026,Analise de Dados,Junior,1.3,Sudeste,Pequena/Media,Nao,Nunca,,3,0.2,5,Sim,Nao
+272,2024,Desenvolvimento,Pleno,6.5,Norte,Pequena/Media,Nao,Nunca,,2,,3,Nao,Nao
+200,2025,QA e Testes,Pleno,5.1,Sudeste,Grande,Sim,Semanal,ChatGPT,5,-90.0,3,Nao,Nao
+368,2024,Infraestrutura e DevOps,Estagio,0.6,Nordeste,Pequena/Media,Sim,Semanal,GitHub Copilot,5,26.7,3,Nao,Nao
+122,2024,Infraestrutura e DevOps,Junior,1.2,Sul,Setor publico,Sim,Semanal,ChatGPT,3,15.4,3,Nao,Nao
+378,2023,Analise de Dados,Junior,1.4,Sudeste,Pequena/Media,Sim,Raramente,Outra,4,42.7,4,Nao,Sim
+351,2025,Suporte Tecnico,Junior,2.7,Centro-Oeste,Grande,Sim,Diario,GitHub Copilot,2,-11.8,3,Sim,Sim
+159,2026,Infraestrutura e DevOps,Pleno,4.7,Sudeste,Startup,Sim,Semanal,ChatGPT,4,28.2,3,Sim,Sim
+86,2026,Desenvolvimento,Pleno,5.0,Sul,Setor publico,Sim,Diario,ChatGPT,5,56.3,3,Nao,Nao
+226,2025,gestao de projetos ,Pleno,5.5,Sul,Freelancer,Sim,Diario,Outra,4,9.6,3,Sim,Nao
+263,2026,QA e Testes,Junior,1.2,Nordeste,Grande,Sim,Diario,ChatGPT,3,30.8,2,Nao,Nao
+327,2026,Seguranca da Informacao,Junior,4.4,Sul,Grande,Sim,Diario,GitHub Copilot,3,12.6,5,Nao,Sim
+77,2025,QA e Testes,Pleno,9.8,Sudeste,Grande,Sim,Diario,GitHub Copilot,5,37.2,3,Sim,Nao
+317,2025,analise de dados ,Pleno,2.9,Centro-Oeste,Pequena/Media,Sim,Semanal,ChatGPT,5,19.8,2,Nao,Nao
+304,2026,Suporte Tecnico,Senior,7.6,Nordeste,Setor publico,Sim,Semanal,Outra,3,17.6,3,Sim,Nao
+88,2024,Analise de Dados,Junior,2.6,Sudeste,Grande,Sim,Raramente,ChatGPT,4,38.8,2,Nao,Nao
+343,2023,Seguranca da Informacao,Senior,8.3,Sudeste,Startup,Nao,Nunca,,2,-3.1,2,Nao,Nao
+183,2024,Suporte Tecnico,Estagio,1.2,Centro-Oeste,Setor publico,Sim,Diario,GitHub Copilot,3,-7.3,5,Sim,Sim
+106,2025,Infraestrutura e DevOps,Senior,7.1,Centro-Oeste,Pequena/Media,Sim,Diario,ChatGPT,4,10.3,3,Nao,Nao
+50,2025,Desenvolvimento,Pleno,3.3,Nordeste,Pequena/Media,Sim,Semanal,Claude,4,57.5,4,Sim,Nao
+6,2024,Gestao de Projetos,Senior,10.3,Nordeste,Grande,Sim,Semanal,GitHub Copilot,4,8.6,3,Nao,Nao
+18,2024,Desenvolvimento,Senior,9.7,Sul,Startup,Sim,Diario,GitHub Copilot,5,44.5,3,Nao,Sim
+235,2024,Gestao de Projetos,Estagio,0.5,Sudeste,Startup,Sim,Semanal,Gemini,3,5.8,2,Nao,Nao
+325,2025,Design UX/UI,Estagio,0.0,Sudeste,Grande,Sim,Diario,ChatGPT,2,3.2,2,Sim,Nao
+107,2024,Analise de Dados,Junior,2.0,Sul,,Sim,Raramente,GitHub Copilot,5,41.7,3,Nao,Nao
+135,2026,Suporte Tecnico,Estagio,0.0,Sudeste,Pequena/Media,Sim,Diario,Claude,1,1.9,3,Nao,Sim
+329,2025,Suporte Tecnico,Pleno,6.5,Sudeste,Grande,Sim,Semanal,GitHub Copilot,2,4.0,5,Sim,Nao
+227,2023,Desenvolvimento,Senior,11.2,Sudeste,Pequena/Media,Sim,Diario,Gemini,5,28.7,2,Nao,Sim
+215,2024,Infraestrutura e DevOps,Junior,2.6,Nordeste,Freelancer,Sim,Raramente,ChatGPT,4,15.1,3,Sim,Sim
+191,2023,Gestao de Projetos,Gestao,15.4,Sul,Grande,Sim,Diario,Gemini,4,32.7,2,Nao,Nao
+360,2025,Suporte Tecnico,Pleno,1.9,Sudeste,Startup,Sim,Semanal,ChatGPT,2,4.9,4,Sim,Nao
+283,2024,Desenvolvimento,Estagio,0.7,Centro-Oeste,Setor publico,Sim,Diario,Gemini,3,31.8,3,Sim,Sim
+30,2026,Infraestrutura e DevOps,Senior,10.1,Sudeste,Pequena/Media,Sim,Diario,ChatGPT,4,17.0,3,Nao,Sim
+170,2025,gestao de projetos ,Pleno,6.3,Sudeste,Grande,Sim,Diario,GitHub Copilot,4,21.5,3,Nao,Sim
+181,2026,Design UX/UI,Pleno,2.4,Nordeste,Pequena/Media,Sim,Semanal,ChatGPT,2,-8.5,4,Nao,Sim
+101,2026,Design UX/UI,Senior,10.4,Sul,Startup,Sim,Raramente,ChatGPT,4,11.5,4,Nao,Nao
+198,2024,Design UX/UI,Pleno,3.9,Sudeste,Grande,Nao,Nunca,,4,1.6,4,Sim,Nao
+210,2023,Suporte Tecnico,Pleno,5.7,Nordeste,Grande,Nao,Nunca,,1,-4.1,5,Nao,Nao
+136,2025,Desenvolvimento,Junior,5.1,Nordeste,Pequena/Media,Sim,Diario,GitHub Copilot,3,24.9,2,Nao,Nao
+383,2026,Seguranca da Informacao,Pleno,5.4,,Freelancer,Sim,Semanal,Claude,3,5.8,3,Sim,Sim
+400,2024,Analise de Dados,Senior,9.5,Sudeste,Setor publico,Sim,Diario,GitHub Copilot,5,46.3,1,Nao,Nao
+199,2024,Desenvolvimento,Gestao,14.4,Sudeste,Grande,Sim,Semanal,ChatGPT,4,14.5,3,Nao,Sim
+167,2025,Seguranca da Informacao,Senior,8.3,Sudeste,Grande,Sim,Diario,Gemini,4,23.7,3,Nao,Nao
+314,2026,Analise de Dados,Senior,10.1,Sudeste,Freelancer,Sim,Semanal,GitHub Copilot,4,12.8,4,Nao,Nao
+137,2026,Gestao de Projetos,Pleno,4.7,Sudeste,Startup,Sim,Semanal,Claude,2,-1.0,3,Nao,Nao
+286,2026,Analise de Dados,Junior,4.2,Nordeste,Grande,Sim,Semanal,Gemini,5,30.3,1,Nao,Nao
+132,2026,Gestao de Projetos,Senior,10.2,Sul,Pequena/Media,Sim,Raramente,ChatGPT,4,10.6,2,Nao,Sim
+40,2023,Infraestrutura e DevOps,Pleno,5.3,Sudeste,Pequena/Media,Sim,Diario,GitHub Copilot,4,5.9,2,Sim,Nao
+216,2025,Infraestrutura e DevOps,Senior,,Sudeste,Grande,Sim,Diario,GitHub Copilot,5,14.3,2,Nao,Nao
+44,2024,QA e Testes,Junior,1.2,Centro-Oeste,Grande,Sim,Diario,Gemini,3,21.2,3,Nao,Nao
+55,2026,Infraestrutura e DevOps,Estagio,0.0,Sudeste,Startup,Sim,Diario,GitHub Copilot,3,49.6,4,Nao,Sim
+386,2026,Gestao de Projetos,Junior,2.2,Sudeste,Grande,Sim,Diario,GitHub Copilot,5,22.6,2,Sim,Nao
+300,2024,Infraestrutura e DevOps,Junior,1.9,Sul,Pequena/Media,Sim,Diario,Gemini,3,8.8,3,Nao,Nao
+370,2024,Design UX/UI,Pleno,5.0,Sudeste,,Sim,Diario,ChatGPT,2,14.7,4,Sim,Sim
+305,2026,Design UX/UI,Junior,0.6,Sudeste,Startup,Sim,Semanal,ChatGPT,3,3.5,3,Nao,Sim
+36,2026,Desenvolvimento,Junior,3.6,Sudeste,Startup,Sim,Semanal,Claude,5,18.2,4,Nao,Nao
+316,2023,QA e Testes,Junior,1.4,Sul,Pequena/Media,Sim,Diario,Gemini,2,41.2,4,Nao,Sim
+310,2024,Desenvolvimento,Pleno,7.2,Sudeste,Pequena/Media,Sim,Raramente,ChatGPT,1,17.1,3,Nao,Sim
+277,2024,QA e Testes,Senior,9.2,Sul,Pequena/Media,Sim,Raramente,Claude,4,15.8,3,Nao,Nao
+125,2024,Desenvolvimento,Estagio,0.0,Nordeste,Freelancer,Sim,Diario,Gemini,4,25.9,4,Nao,Nao
+143,2026,Gestao de Projetos,Senior,10.8,Sudeste,Pequena/Media,Sim,Raramente,ChatGPT,3,25.7,2,Sim,Nao
+111,2024,Analise de Dados,Estagio,0.8,Sul,Pequena/Media,Sim,Semanal,GitHub Copilot,5,35.1,3,Sim,Sim
+324,2025,Suporte Tecnico,Gestao,13.3,Sudeste,Pequena/Media,Sim,Diario,GitHub Copilot,2,5.1,5,Sim,Nao
+356,2023,Suporte Tecnico,Junior,1.6,Sul,Pequena/Media,Sim,Diario,GitHub Copilot,3,18.2,4,Nao,Sim
+108,2025,QA e Testes,Senior,9.7,Sudeste,Setor publico,Sim,Semanal,GitHub Copilot,4,10.2,1,Sim,Nao
+13,2025,Infraestrutura e DevOps,Estagio,3.2,Sul,Freelancer,Sim,Diario,Outra,4,11.6,3,Nao,Nao
+273,2026,Desenvolvimento,Gestao,14.0,Sudeste,Grande,Sim,Semanal,ChatGPT,4,28.2,4,Sim,Nao
+48,2026,QA e Testes,Pleno,5.4,Sul,Startup,Sim,Semanal,ChatGPT,4,15.0,3,Nao,Sim
+204,2023,Desenvolvimento,Senior,10.9,Nordeste,Startup,Sim,Semanal,GitHub Copilot,3,1.2,2,Sim,Nao
+348,2025,QA e Testes,Pleno,4.5,,Freelancer,Sim,Semanal,Gemini,4,26.2,3,Sim,Nao
+120,2025,Suporte Tecnico,Senior,7.4,Centro-Oeste,Startup,Sim,Diario,ChatGPT,2,-15.0,2,Sim,Nao
+22,2025,QA e Testes,Estagio,0.0,Sudeste,Pequena/Media,Sim,Diario,GitHub Copilot,2,19.4,5,Sim,Nao
+84,2025,Desenvolvimento,Junior,2.0,Sul,Pequena/Media,Sim,Semanal,Gemini,5,22.2,3,Sim,Nao
+131,2024,Desenvolvimento,Pleno,5.6,,Setor publico,Sim,Raramente,GitHub Copilot,3,30.0,3,Nao,Sim
+330,2025,QA e Testes,Pleno,6.9,Sudeste,Startup,Sim,Semanal,GitHub Copilot,3,16.7,4,Sim,Nao
+230,2026,Desenvolvimento,Senior,11.2,Norte,Startup,Sim,Semanal,ChatGPT,3,20.7,4,Sim,Nao
+399,2026,Analise de Dados,Senior,9.4,Sudeste,Startup,Sim,Diario,ChatGPT,5,11.0,2,Nao,Nao
+287,2025,Desenvolvimento,Pleno,5.2,Sul,Grande,Sim,Diario,ChatGPT,3,32.3,5,Sim,Nao
+124,2023,Analise de Dados,Pleno,5.1,Sudeste,Pequena/Media,Nao,Nunca,,4,15.4,3,Nao,Nao
+34,2026,Analise de Dados,Senior,10.6,Sudeste,Grande,Sim,Diario,GitHub Copilot,5,22.8,2,Sim,Nao
+390,2026,Design UX/UI,Pleno,2.9,Sul,Grande,Sim,Raramente,Gemini,3,14.4,4,Sim,Nao
+5,2023,Desenvolvimento,Gestao,13.0,Nordeste,Pequena/Media,Sim,Diario,Outra,5,8.1,3,Nao,Nao
+20,2025,Suporte Tecnico,Senior,9.8,Centro-Oeste,Grande,Sim,Semanal,GitHub Copilot,3,22.6,4,Nao,Nao
+220,2024,Analise de Dados,Estagio,0.0,Sudeste,Startup,Sim,Diario,Gemini,5,29.8,3,Nao,Nao
+329,2025,Suporte Tecnico,Pleno,6.5,Sudeste,Grande,Sim,Semanal,GitHub Copilot,2,4.0,5,Sim,Nao
+150,2026,Desenvolvimento,Pleno,2.2,Sudeste,Grande,Sim,Diario,Claude,4,43.9,4,Nao,Sim
+225,2024,QA e Testes,Gestao,12.8,Centro-Oeste,Pequena/Media,Sim,Diario,GitHub Copilot,3,12.1,1,Sim,Nao
+248,2025,Analise de Dados,Pleno,4.6,Centro-Oeste,Grande,Sim,Semanal,ChatGPT,4,24.8,3,Nao,Nao
+361,2024,Gestao de Projetos,Senior,8.7,Sudeste,Grande,Sim,Semanal,ChatGPT,4,23.6,2,Sim,Sim
+152,2024,Design UX/UI,Junior,0.7,Sudeste,Freelancer,Nao,Nunca,,3,-1.5,5,Sim,Nao
+318,2023,Infraestrutura e DevOps,Estagio,0.0,Nordeste,Pequena/Media,Nao,Nunca,,4,-4.3,3,Nao,Nao
+292,2023,Desenvolvimento,Senior,12.2,Sul,Pequena/Media,Sim,Diario,GitHub Copilot,2,22.5,3,Sim,Sim
+234,2025,Suporte Tecnico,Junior,3.0,Norte,Grande,Sim,Diario,Gemini,1,9.1,5,Sim,Nao
+11,2024,Analise de Dados,Pleno,4.9,Sudeste,Startup,Sim,Diario,ChatGPT,2,18.2,3,Sim,Nao
+280,2023,Design UX/UI,Junior,2.7,Sudeste,Pequena/Media,Nao,Nunca,,3,-2.5,3,Nao,Nao
+72,2024,Analise de Dados,Pleno,5.1,Sudeste,Pequena/Media,Sim,Semanal,GitHub Copilot,5,23.6,2,Sim,Nao
+253,2023,Analise de Dados,Pleno,5.6,Centro-Oeste,Pequena/Media,Sim,Semanal,Claude,4,24.7,1,Nao,Sim
+93,2024,Analise de Dados,Pleno,4.9,Nordeste,Freelancer,Sim,Diario,Gemini,4,26.5,3,Sim,Sim
+350,2026,Desenvolvimento,Senior,8.5,Nordeste,Freelancer,Sim,Semanal,Claude,2,41.9,3,Sim,Sim
+193,2024,desenvolvimento ,Junior,0.5,Sul,Grande,Sim,Semanal,Gemini,3,45.2,4,Nao,Sim
+258,2023,Desenvolvimento,Junior,2.1,Sudeste,Grande,Sim,Semanal,Gemini,4,6.7,5,Nao,Nao
+340,2023,Gestao de Projetos,Pleno,6.3,Sudeste,Freelancer,Sim,Diario,Outra,5,38.8,3,Sim,Nao
+397,2026,Seguranca da Informacao,Estagio,4.2,Sul,Freelancer,Sim,Raramente,GitHub Copilot,2,-4.4,2,Sim,Nao
+196,2026,Desenvolvimento,Junior,0.0,Sudeste,Grande,Sim,Semanal,Gemini,2,14.2,4,Sim,Sim
+344,2023,Suporte Tecnico,Estagio,0.1,Sudeste,Freelancer,Sim,Semanal,ChatGPT,1,30.8,3,Sim,Sim
+138,2026,Analise de Dados,Junior,0.1,Sul,Freelancer,Sim,Semanal,GitHub Copilot,3,29.5,1,Nao,Sim
+261,2026,Desenvolvimento,Junior,3.8,Sudeste,Freelancer,Sim,Diario,ChatGPT,4,10.4,3,Nao,Sim
+39,2026,Desenvolvimento,Senior,9.5,Sudeste,Pequena/Media,Sim,Diario,ChatGPT,2,43.4,2,Nao,Nao
+202,2025,Gestao de Projetos,Senior,9.8,Sudeste,Pequena/Media,Nao,Nunca,,4,-3.2,2,Sim,Nao
+380,2026,Infraestrutura e DevOps,Senior,11.5,Centro-Oeste,Freelancer,Sim,Raramente,ChatGPT,4,24.4,1,Sim,Nao
+291,2026,Seguranca da Informacao,Junior,1.8,Nordeste,Grande,Nao,Nunca,,2,4.0,3,Nao,Nao
+190,2026,QA e Testes,Estagio,1.1,Sudeste,Pequena/Media,Sim,Raramente,ChatGPT,4,180.0,3,Nao,Sim
+252,2026,Dev,Senior,10.5,Sudeste,Pequena/Media,Sim,Semanal,GitHub Copilot,1,21.6,3,Sim,Nao
+113,2023,QA e Testes,Estagio,0.0,,Grande,Sim,Diario,GitHub Copilot,5,39.1,4,Nao,Nao
+184,2026,QA e Testes,Junior,0.3,Sudeste,Startup,Sim,Semanal,ChatGPT,4,36.0,5,Nao,Sim
+153,2025,Desenvolvimento,Junior,,Sul,Setor publico,Sim,Diario,ChatGPT,4,9.0,3,Sim,Nao
+313,2025,Desenvolvimento,Senior,10.6,Sudeste,Grande,Sim,Diario,Gemini,4,31.0,3,Sim,Sim
+326,2025,Infraestrutura e DevOps,Estagio,2.3,Sudeste,Grande,Sim,Semanal,GitHub Copilot,2,4.3,3,Sim,Sim
+192,2025,QA e Testes,Pleno,5.2,Centro-Oeste,Pequena/Media,Sim,Semanal,ChatGPT,3,32.3,3,Sim,Sim
+45,2026,Seguranca da Informacao,Junior,1.1,Sudeste,Pequena/Media,Sim,Diario,Claude,3,25.3,2,Sim,Nao
+276,2024,Analise de Dados,Junior,,Sudeste,Grande,Sim,Diario,ChatGPT,5,20.2,4,Nao,Sim
+7,2024,Seguranca da Informacao,Junior,0.4,Sul,Grande,Sim,Diario,GitHub Copilot,2,18.5,3,Nao,Nao
+251,2026,Infraestrutura e DevOps,Pleno,5.5,Sudeste,Pequena/Media,Sim,Diario,ChatGPT,5,22.7,2,Sim,Nao
+312,2026,Analise de Dados,Pleno,4.8,Norte,Grande,Sim,Diario,ChatGPT,3,40.8,4,Nao,Sim
+76,2024,QA e Testes,Junior,2.5,Sudeste,Setor publico,Nao,Nunca,,4,5.3,3,Nao,Nao
+1,2025,Seguranca da Informacao,Junior,4.6,Sul,Freelancer,Sim,Semanal,ChatGPT,5,33.8,2,Sim,Nao
+384,2023,Analise de Dados,Pleno,4.2,Sudeste,Startup,Nao,Nunca,,4,12.1,3,Nao,Nao
+69,2025,Desenvolvimento,Junior,4.8,Sudeste,Grande,Sim,Semanal,ChatGPT,4,38.7,4,Nao,Nao
+168,2024,Seguranca da Informacao,Estagio,0.4,Nordeste,Setor publico,Sim,Diario,GitHub Copilot,5,17.8,2,Sim,Nao
+219,2026,Gestao de Projetos,Junior,1.5,Sudeste,Grande,Sim,Diario,Claude,3,16.4,2,Sim,Nao
+43,2024,Infraestrutura e DevOps,Senior,10.4,Centro-Oeste,Setor publico,Sim,Diario,ChatGPT,3,0.2,2,Nao,Sim
+367,2024,Seguranca da Informacao,Junior,2.1,Sul,Grande,Sim,Diario,ChatGPT,2,34.4,3,Nao,Sim
+346,2026,Seguranca da Informacao,Pleno,5.1,Sudeste,Startup,Sim,Diario,ChatGPT,3,,2,Sim,Nao
+73,2024,Design UX/UI,Estagio,3.1,Centro-Oeste,Setor publico,Sim,Diario,Claude,3,34.7,4,Nao,Sim
+24,2025,Design UX/UI,Estagio,1.1,Sudeste,Pequena/Media,Sim,Semanal,Claude,3,9.9,5,Nao,Sim
+186,2025,Infraestrutura e DevOps,Pleno,7.1,Nordeste,Pequena/Media,Sim,Semanal,GitHub Copilot,4,-4.2,2,Sim,Sim
+349,2025,Suporte Tecnico,Senior,10.5,Sudeste,Setor publico,Sim,Diario,ChatGPT,4,3.2,3,Nao,Nao
+104,2024,Gestao de Projetos,Pleno,5.1,Centro-Oeste,Pequena/Media,Sim,Semanal,Gemini,3,35.3,3,Nao,Nao
+212,2026,Suporte Tecnico,Pleno,2.7,Sul,Pequena/Media,Sim,Raramente,Claude,3,28.4,3,Sim,Sim
+68,2026,QA e Testes,Gestao,15.1,Sul,Startup,Sim,Semanal,ChatGPT,3,-0.7,3,Nao,Sim
+26,2025,Desenvolvimento,Senior,9.8,,Setor publico,Sim,Diario,ChatGPT,4,7.9,3,Nao,Nao
+197,2026,Suporte Tecnico,Senior,9.6,Norte,Startup,Nao,Nunca,,3,-5.9,5,Nao,Nao
+176,2026,Desenvolvimento,Pleno,4.5,Sudeste,Grande,Sim,Diario,ChatGPT,3,19.1,2,Sim,Sim
