@@ -102,7 +102,7 @@ As diferenças são pequenas. A nota de impacto fica entre 3,40 e 3,64 nas regi�
 ## 📁 Estrutura do repositório
 
 ```
-analise-impacto-ia-ti/
+Analise_impacto_IA_TI/
 ├── dados/
 │   ├── ia_impacto_ti.csv          # dados originais (simulados)
 │   └── ia_impacto_ti_limpo.csv    # gerado pelo notebook após a limpeza
@@ -117,8 +117,8 @@ analise-impacto-ia-ti/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/LucasNegri7/analise-impacto-ia-ti.git
-   cd analise-impacto-ia-ti
+   git clone https://github.com/LucasNegri7/Analise_impacto_IA_TI.git
+   cd Analise_impacto_IA_TI
    ```
 2. Instale as dependências:
    ```bash
